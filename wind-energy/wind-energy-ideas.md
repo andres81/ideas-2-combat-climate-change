@@ -1,3 +1,87 @@
+Copyright (C)  2022  André Schepers.<br />
+Permission is granted to copy, distribute and/or modify this document<br />
+under the terms of the GNU Free Documentation License, Version 1.3<br />
+or any later version published by the Free Software Foundation;<br />
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.<br />
+A copy of the license is included in the section entitled "GNU<br />
+Free Documentation License".<br />
+
+# Wind energy ideas
+
+## Introduction
+
+What is wind? According to [Wikipedia](https://en.wikipedia.org/wiki/Wind) wind
+is moving air. But what is really interesting is how wind then can move ships,
+destroy buildings, and so much more. How fast does wind have to go that air
+molecules gain enough kinetic energy to push hard enough to cause this damage?
+
+The answer is surprisingly enough, too hard that it is impossible to have wind
+cause these effects itself directly. However, indirectly it does cause these
+damages. So what really happens? In what lies its power to perform [work](https://en.wikipedia.org/wiki/Work_(physics))?
+
+## The Context: The atmosphere
+
+The atmosphere has a pressure of 1 [bar](https://en.wikipedia.org/wiki/Bar_(unit)) atmospheric
+pressure. 1 bar is equal to 100,000 [Pa](https://en.wikipedia.org/wiki/Pascal_(unit)).
+1 Pa is equal to one Newton per square metre. So 100,000 Pa is equal to 100,000
+Newton per square metre. But how much wait is that equal to?
+
+F = m * g = m * 9.81 m/s = 100,000 Newton
+m = 100,000 Newton / 9.81 m/s ≈ 10,000 kg. **Or 10 tons of weight per square metre!**
+
+That is a lot of pressure in the atmosphere!
+
+## What wind does
+
+So we know wind can blow hard, air can move fast. But what does cause the damage?
+What happens when a ship sails, is that the wind doesn't push, it merely pulls
+the air from the front of the sail with it. This causes a lower pressure in
+front of the sail, then behind it. The atmospheric pressure behind the sail
+remains mostly the same, so it pushes the sail forwards, and it then pulls the
+boat with it. That is wind energy.
+
+## How to use it most optimally
+
+Now that we know that the wind energy lies in pulling areas vacuum, let us then
+focus on the vacuum we can create, and which holds the actual power. If we can
+somehow combine the under pressure over a larger area, then the power on a
+surface becomes significantly higher.
+
+Imagine a large wall. The bigger the surface, the bigger the total force on the
+total wall. Remember, atmospheric pressure is Newton per square metre. Although
+the atmospheric pressure remains the same, and the amount of vacuum the wind
+creates per square metre remains the same, the total of the surface, totals also
+the force exerted per square metre.
+
+But thinking like this, brings us to machines trying to win this energy, by
+letting large objects move. Which is cumbersome. If however, we instead let the
+air flow, and funnel it to concentrate it in one place, we can have a huge
+powerful airflow at one point, where we can put a [centrifugal fan](https://en.wikipedia.org/wiki/Centrifugal_fan).
+
+The idea now is to have like a kind of porous mat, that covers the walls. Like
+for example on a house. You wouldn't see it, or you would because people like
+the colour pink..., and it would contain a gazillion wholes, that connect to
+tubes, that bring them together in pipes, that themselves come together at
+one point. There, at that point, it is connected to a centrifugal fan. It goes
+berserk because of the enormous flow of air to serve such a huge area.
+
+## Applications
+
+The author believes, this can be ubiquitously applied everywhere on everything,
+without obstructing view, nor being in anything's way. You could also argue, that
+it can protect buildings, when air is pushed out to create overpressure: Hard
+winds no longer create the under pressure on the outside of houses that causes
+the atmospheric pressure inside to blow the house up. But this might be wishful
+thinking... (The author is not a physicist).
+
+How much energy can be created at central points in a city, has to be
+calculated, but it seems especially at high places, where the wind can create
+huge under pressures, lots of energy can be won, without taking in more space
+than the building does: It is merely a thin layer on the outside of buildings
+that provides the airflow.
+
+# License
+
 ### GNU Free Documentation License
 
 Version 1.3, 3 November 2008
